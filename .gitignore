@@ -24,6 +24,3 @@ data/bookings.txt
 # OS artefacts
 Thumbs.db
 .DS_Store
-
-# Old single-file version (kept for reference, not the active codebase)
-main.cpp
