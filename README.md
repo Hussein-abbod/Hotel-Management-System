@@ -84,9 +84,6 @@ g++ -std=c++17 -Wall -Iinclude src/*.cpp -o hotel_management
 
 ## 🔑 Default Login Credentials
 
-> [!WARNING]  
-> Change these before any real deployment. Credentials are stored in `src/Utils.cpp` inside the `login()` function.
-
 | Field | Value |
 |---|---|
 | Username | `HAVEN` |
