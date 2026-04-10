@@ -1,0 +1,29 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+hotel_management
+
+# Build output directory
+obj/
+
+# Runtime-generated data files (created automatically on first run)
+data/rooms.txt
+data/bookings.txt
+
+# IDE / editor artefacts
+.vscode/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+.vs/
+
+# OS artefacts
+Thumbs.db
+.DS_Store
+
+# Old single-file version (kept for reference, not the active codebase)
+main.cpp
